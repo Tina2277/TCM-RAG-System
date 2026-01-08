@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 环境变量与密钥 
+.env
+*.key
+
+# 虚拟环境
+rag_env/
+venv/
+.conda/
+
+# 数据库与缓存文件
+*.db
+*.pkl
+milvus_data/
+
+# IDE 配置
+.vscode/
+.idea/
